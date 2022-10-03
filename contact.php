@@ -10,7 +10,7 @@
     <div class="container">
         <!-- Start -->
             <h2>Home</h2>
-            <hr>Welcome
+            <hr>ศิวกร ขุทรานนท์
         <!-- End -->
     </div>
 </body>
